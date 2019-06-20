@@ -1,3 +1,4 @@
+# Program that takes a list of numbers and makes a new list of only the first and last elements of the given list.
 def enter_list():
     size = int(input("Enter the size of list (integers): "))
     num_list = []
